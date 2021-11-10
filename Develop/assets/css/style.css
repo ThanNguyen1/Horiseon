@@ -50,6 +50,8 @@ p {
     font-size: 16px;
 }
 
+/* start hero style */
+
 .hero {
     height: 800px;
     width: 100%;
@@ -69,6 +71,7 @@ p {
     margin-left: 25px;
 }
 
+/* end hero style */
 /* start of content section */
 
 .content {
@@ -124,3 +127,4 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+/* end of benefit style */
