@@ -1,14 +1,19 @@
-# HTML CSS GIT Challege: Code Refactor
+# HORISEON
 
-## Updating HTML and CSS to have the website accessible and optimized for search engines utilizing the mockup example as a guide
-
+## Purpose
+HTML CSS GIT Challege: Code Refactor
 - Updated semantic HTML elements.
 - Consolidated CSS and reduced redundencies.
 - Added alt attributes to images.
 
-## Installation
+## Built With
+* HTML
+* CSS
 
-## Usage
-```md
-![mockup example](assets/images/week-1-mockup.png)
-```
+## Website
+https://ThanNguyen1.github.io/Horiseon/
+
+## Contribution
+Edited with ❤️ by Than Nguyen
+
+### ©️Horiseon
